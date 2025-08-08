@@ -1,3 +1,5 @@
+![Resumind Banner](./assets/Banner.png)
+
 # Resumind – AI Resume Analyzer
 
 🎯 **Track your applications. Rate your resume. Improve your chances.**
